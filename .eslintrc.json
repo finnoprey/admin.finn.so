@@ -3,6 +3,6 @@
   "rules": {
     "semi": ["error", "never"],
     "quotes": ["error", "single"],
-    "brace-style": ["error", "stroustrup"]
+    "brace-style": ["error", "1tbs"]
 }
 }

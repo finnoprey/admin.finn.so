@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Finn's Dashboard</title>
+        <title>Finn&apos;s Dashboard</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
